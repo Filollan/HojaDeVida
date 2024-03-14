@@ -1,0 +1,41 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #9c9c9c;
+}
+
+.container {
+    max-width: 1200px;
+    background-color: #9c9c9c;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+
+.bg-primary {
+    background-color: #0f0f0f !important;
+}
+
+.progress {
+    height: 20px;
+    font-size: 0.8rem;
+}
+
+.list-unstyled li {
+    margin-bottom: 0.5rem;
+}
+
+.Titulo {
+    color: aliceblue;
+}
+ #nombre{
+    text-align: center;
+}
+
+.navbar-nav .nav-link {
+    color: rgb(0, 0, 0); /* Cambiar el color del texto del navbar a blanco */
+}
+.navbar {
+    background-color: rgba(245, 240, 240, 0.24); /* Cambiar el color de fondo a blanco con una opacidad del 80% */
+    transition: background-color 0.3s ease; /* Agregar una transición suave para el cambio de color de fondo */
+}
+
+
